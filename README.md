@@ -1,1 +1,2 @@
-# Veri_Madencili-i_Wine
+# Veri_Madenciliği_Wine
+**LÜTFEN ORANGEDEKİ YAPILARI GÖRMEK İÇİN ORANGE PLATFORMUNU KURUN VE .ows UZANTILI DOSYAYI ORANGE İLE AÇIN**
